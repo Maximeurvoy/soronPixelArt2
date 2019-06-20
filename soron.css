@@ -1,0 +1,23 @@
+div{
+
+width: 100%;
+height: 7.33vh;
+border: solid white 0.3vh;
+
+}
+
+.grey {
+background-color: grey;
+}
+
+.orange {
+background-color: orange;
+}
+
+.yellow {
+background-color: yellow;
+}
+
+.black {
+background-color: black;
+}
